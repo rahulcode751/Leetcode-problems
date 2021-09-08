@@ -6,6 +6,4 @@ int fib(int n){
         return 1;
     }
     return fib(n-1)+fib(n-2);
-
-
 }
