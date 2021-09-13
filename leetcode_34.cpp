@@ -1,6 +1,8 @@
+/// Here i have demonstrated the full code with full logical syntax 
+
 #include<iostream>
 #include<vector>
-// is code ki time complexity ologn h leet code
+// TC pf this code is -> ologn h 
 using namespace std;
 class solution{
 	public:
