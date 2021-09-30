@@ -1,3 +1,4 @@
+// its a solution of qus number 9 on leetcode
 class Solution {
 public:
     bool isPalindrome(int x) {
