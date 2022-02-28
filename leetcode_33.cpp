@@ -1,5 +1,5 @@
 // here i have demonstrated the full code with full logical syntanxe of leetcode problem number 33
-Tc = ologn 
+// Tc = ologn 
 #include<bits/stdc++.h>
 using namespace std;
 
